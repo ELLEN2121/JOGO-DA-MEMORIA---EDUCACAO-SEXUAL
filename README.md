@@ -9,4 +9,11 @@
 
   
 <h2> Instruções </h2>
+<ol>
+  <li>Clique em uma das cartas para abri-lá. </li>
+  <li>Leia o que está na carta. </li>
+  <li>encontre a outra carta idêntica a anterior.</li>
+</ol> 
+  
+   <p> <strong> Atenção! /n </strong>Fique atento, pois a carta irá sumir da tela em 11 segundos. Se preferir, abra novamente, no entanto será contabilizado mais um clique.  </p>
 
