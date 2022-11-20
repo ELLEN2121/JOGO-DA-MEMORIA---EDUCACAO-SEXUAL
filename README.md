@@ -31,6 +31,5 @@
   </div>
   <div align="left">
     <h2> Referências </h2> 
-    <p><a href="https://bvsms.saude.gov.br/bvs/publicacoes/caderneta_saude_adolescente_feminina.pdf" target="_blank">Cardeneta de Saúde do Adolescente Feminina</a> <br> <a href="https://bvsms.saude.gov.br/bvs/publicacoes/caderneta_saude_adolescente_masculino.pdf" target="_blank">Cardeneta de Saúde do Adolescente Masculina</a>
-      <a href="http://codepen.io/mel/pen/Brads/" target="_blank">jQuery> Picture Memory Game </a> </p>
+    <p><a href="https://bvsms.saude.gov.br/bvs/publicacoes/caderneta_saude_adolescente_feminina.pdf" target="_blank">Cardeneta de Saúde do Adolescente Feminina</a> <br> <a href="https://bvsms.saude.gov.br/bvs/publicacoes/caderneta_saude_adolescente_masculino.pdf" target="_blank">Cardeneta de Saúde do Adolescente Masculina</a> <br> <a href="http://codepen.io/mel/pen/Brads/" target="_blank">jQuery Picture Memory Game </a> </p>
   </div> 
