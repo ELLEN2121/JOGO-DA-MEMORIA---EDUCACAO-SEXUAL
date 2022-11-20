@@ -18,8 +18,7 @@
   <p> Terminar o jogo com número mínimo de clicks.</p> 
   <h4> <strong> Observação </strong> </h4>
   <p>A carta irá sumir da tela em 11 segundos. Se preferir, abra novamente, no entanto será contabilizado mais um clique. </p>
-   <p>Para reiniciar o jogo e zerar a contagem, click em "Reiniciar".</p>
-   ![WhatsApp Image 2022-11-20 at 04 20 12](https://user-images.githubusercontent.com/61208054/202890729-d536027e-e930-49ef-9470-a10840761baf.jpeg)
+   <p>Para reiniciar o jogo e zerar a contagem, click em "Reiniciar". <br> Para maior usabilidade em modo mobile, ativar o modo computador nas configurações da página. <img align="center"  height="100" width="100" src="https://i.pinimg.com/564x/c5/7c/26/c57c26cb3a4d154624060e825ba7fb7d.jpg"></p> 
 
   
   <h2> Tecnologia </h2> 
