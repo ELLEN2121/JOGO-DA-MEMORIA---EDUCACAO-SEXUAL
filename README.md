@@ -7,7 +7,7 @@
   <img align="center" height="200" width="200" src="https://i.pinimg.com/originals/74/a7/3a/74a73a5eae784e53143ed440531e54c2.jpg">
 </div>
 
-<div>
+<div align="left">
 <h2> Instruções </h2>
 <ol>
   <li>Clique em uma das cartas para abri-lá. </li>
