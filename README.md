@@ -33,3 +33,4 @@
     <h2> Referências </h2> 
     <p><a href="https://bvsms.saude.gov.br/bvs/publicacoes/caderneta_saude_adolescente_feminina.pdf" target="_blank">Cardeneta de Saúde do Adolescente Feminina</a> <br> <a href="https://bvsms.saude.gov.br/bvs/publicacoes/caderneta_saude_adolescente_masculino.pdf" target="_blank">Cardeneta de Saúde do Adolescente Masculina</a> <br> <a href="https://codepen.io/mel/full/Axgqge" target="_blank">jQuery Picture Memory Game </a> </p>
   </div> 
+  <h2> Criado por <a href="https://www.linkedin.com/in/ellen-maria-da-silva-caldas-4824b01a7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> Ellen Caldas</a> </h2>
