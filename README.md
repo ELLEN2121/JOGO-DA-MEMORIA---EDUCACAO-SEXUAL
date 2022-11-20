@@ -15,5 +15,6 @@
   <li>encontre a outra carta idêntica a anterior.</li>
 </ol> 
   
-   <p> <strong> Atenção! \n </strong>Fique atento, pois a carta irá sumir da tela em 11 segundos. Se preferir, abra novamente, no entanto será contabilizado mais um clique.  </p>
+  <strong> Atenção!</strong> 
+  <p>Fique atento, pois a carta irá sumir da tela em 11 segundos. Se preferir, abra novamente, no entanto será contabilizado mais um clique.  </p>
 
