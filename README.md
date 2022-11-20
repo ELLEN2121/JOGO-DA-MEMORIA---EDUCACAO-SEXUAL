@@ -21,6 +21,6 @@
 
   
   <h2> Tecnologia </h2> 
-  <p> Foi utilizado o HTML, CSS e JavaScript para o desenvolvimento do jogo. Além disso, foi implementado com uma biblioteca especifica do JavaScript, o jQuery. Hospedado e compilado integralmente na IDE online de código aberto, o <a href=" https://codepen.io/ellen2121/full/KKemWPz" target="_blank"> CodePen </a> </p>
+  <p> Foi utilizado o HTML, CSS e JavaScript para o desenvolvimento do jogo. Além disso, foi implementado com uma biblioteca especifica do JavaScript, o jQuery. Hospedado e compilado integralmente na IDE online de código aberto, o</p> <a href=" https://codepen.io/ellen2121/full/KKemWPz" target="_blank"> CodePen </a> 
 </div>
 <a href="https://www.instagram.com/caldasflamejantes/" target="_blank">p</a>
