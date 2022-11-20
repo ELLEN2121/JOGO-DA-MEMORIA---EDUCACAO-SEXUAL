@@ -31,5 +31,5 @@
   </div>
   <div align="left">
     <h2> Referências </h2> 
-    <p></p>
+    <p><a href="https://bvsms.saude.gov.br/bvs/publicacoes/caderneta_saude_adolescente_feminina.pdf" target="_blank">Cardeneta de Saúde do Adolescente Feminina</a> <br> <a href="https://bvsms.saude.gov.br/bvs/publicacoes/caderneta_saude_adolescente_masculino.pdf" target="_blank">Cardeneta de Saúde do Adolescente Masculina</a>  </p>
   </div> 
