@@ -14,8 +14,9 @@
   <li>Leia o que está na carta. </li>
   <li>encontre a outra carta idêntica a anterior.</li>
 </ol> 
-  
-  <h3> <strong> Atenção </strong> </h3>
-  <p>A carta irá sumir da tela em 11 segundos. Se preferir, abra novamente, no entanto será contabilizado mais um clique.  </p>
+  <h3> Objetivo </h3>
+  <p> Terminar o jogo com número mínimo de clicks </p> 
+  <h3> <strong> Observação </strong> </h3>
+  <p>A carta irá sumir da tela em 11 segundos. Se preferir, abra novamente, no entanto será contabilizado mais um clique. </p>
 
 </div>
