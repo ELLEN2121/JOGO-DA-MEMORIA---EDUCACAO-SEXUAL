@@ -14,9 +14,9 @@
   <li>Leia o que está na carta. </li>
   <li>encontre a outra carta idêntica a anterior.</li>
 </ol> 
-  <h3> Objetivo </h3>
+  <h4> Objetivo </h4>
   <p> Terminar o jogo com número mínimo de clicks </p> 
-  <h3> <strong> Observação </strong> </h3>
+  <h4> <strong> Observação </strong> </h4>
   <p>A carta irá sumir da tela em 11 segundos. Se preferir, abra novamente, no entanto será contabilizado mais um clique. </p>
 
   
@@ -27,6 +27,6 @@
     <img align="center" alt="Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-     <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
+    <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
 
   </div>
