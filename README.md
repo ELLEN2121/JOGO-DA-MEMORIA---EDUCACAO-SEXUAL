@@ -37,12 +37,12 @@
   <div align="left">
     <h2> Referências </h2> 
     <p><a href="http://bvsms.saude.gov.br/bvs/publicações/protocolo_clinico_atecao_integral_ist.pdf " target="_blank">Brasil. Ministério da Saúde, Secretaria de Vigilância em Saúde, Departamento de Doenças de Condições Crônicas e Infecções Sexualmente Transmissíveis. Protocolo Clínico e Diretrizes Terapêuticas para Atenção Integral às Pessoas com Infecções Sexualmente Transmissíveis – IST [recurso eletrônico]. Brasília: Ministério da Saúde, 2022. Modo de acesso: World Wide Web: http://bvsms.saude.gov.br/bvs/publicações/protocolo_clinico_atecao_integral_ist.pdf ISBN 978-65-5993-276-4</a> <br>
+ <a href="https://bvsms.saude.gov.br/bvs/publicacoes/caderneta_saude_adolescente_feminina.pdf" target="_blank">Brasil. Ministério da Saúde. Caderneta de Saúde do Adolescente / Feminina (2013). Disponível em https://bvsms.saude.gov.br/bvs/publicacoes/caderneta_saude_adolescente_feminina.pdf</a> <br> 
       
-      <a href="https://bvsms.saude.gov.br/bvs/publicacoes/caderneta_saude_adolescente_feminina.pdf" target="_blank">Brasil. Ministério da Saúde. Caderneta de Saúde do Adolescente / Feminina (2013). Disponível em https://bvsms.saude.gov.br/bvs/publicacoes/caderneta_saude_adolescente_feminina.pdf</a> <br> 
+<a href="https://bvsms.saude.gov.br/bvs/publicacoes/caderneta_saude_adolescente_masculino.pdf" target="_blank">Brasil. Ministério da Saúde. Caderneta de Saúde do Adolescente / Masculina (2014). Disponível em https://bvsms.saude.gov.br/bvs/publicacoes/caderneta_saude_adolescente_masculino.pdf</a> <br>
       
-          <a href="https://bvsms.saude.gov.br/bvs/publicacoes/caderneta_saude_adolescente_masculino.pdf" target="_blank">Brasil. Ministério da Saúde. Caderneta de Saúde do Adolescente / Masculina (2014). Disponível em https://bvsms.saude.gov.br/bvs/publicacoes/caderneta_saude_adolescente_masculino.pdf</a> <br>
-      
-      <a href="https://codepen.io/mel/full/Axgqge" target="_blank">jQuery Picture Memory Game </a> </p>
+<a href="https://codepen.io/mel/full/Axgqge" target="_blank">jQuery Picture Memory Game </a> 
+   </p>
   </div> 
   <h2> Criado por <a href="https://www.linkedin.com/in/ellen-maria-da-silva-caldas-4824b01a7/" target="_blank"> Ellen Caldas</a> </h2>
   
