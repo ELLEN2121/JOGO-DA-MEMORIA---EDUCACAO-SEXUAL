@@ -31,5 +31,6 @@
   </div>
   <div align="left">
     <h2> Referências </h2> 
-    <p><a href="https://bvsms.saude.gov.br/bvs/publicacoes/caderneta_saude_adolescente_feminina.pdf" target="_blank">Cardeneta de Saúde do Adolescente Feminina</a> <br> <a href="https://bvsms.saude.gov.br/bvs/publicacoes/caderneta_saude_adolescente_masculino.pdf" target="_blank">Cardeneta de Saúde do Adolescente Masculina</a>  </p>
+    <p><a href="https://bvsms.saude.gov.br/bvs/publicacoes/caderneta_saude_adolescente_feminina.pdf" target="_blank">Cardeneta de Saúde do Adolescente Feminina</a> <br> <a href="https://bvsms.saude.gov.br/bvs/publicacoes/caderneta_saude_adolescente_masculino.pdf" target="_blank">Cardeneta de Saúde do Adolescente Masculina</a>
+    Forked from [Mario Vidov](http://codepen.io/mel/)'s Pen [jQuery Picture Memory Game](http://codepen.io/mel/pen/Brads/).</p>
   </div> 
