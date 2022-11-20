@@ -15,10 +15,10 @@
   <li>encontre a outra carta idêntica a anterior.</li>
 </ol> 
   <h4> Objetivo </h4>
-  <p> Terminar o jogo com número mínimo de clicks </p> 
+  <p> Terminar o jogo com número mínimo de clicks.</p> 
   <h4> <strong> Observação </strong> </h4>
   <p>A carta irá sumir da tela em 11 segundos. Se preferir, abra novamente, no entanto será contabilizado mais um clique. </p>
-
+   <p>Para reiniciar o jogo e zerar a contagem, click em "Reiniciar".</p>
   
   <h2> Tecnologia </h2> 
   <p> Foi utilizado o HTML, CSS e JavaScript para o desenvolvimento do jogo. Além disso, foi implementado com uma biblioteca especifica do JavaScript, o jQuery. <br> Hospedado e compilado integralmente na IDE online de código aberto, o <a href="https://codepen.io/ellen2121/full/KKemWPz" target="_blank">CodePen</a> </p> 
@@ -28,5 +28,8 @@
     <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
-
   </div>
+  <div align="left">
+    <h2> Referências </h2> 
+    <p></p>
+  </div> 
