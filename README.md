@@ -1,7 +1,6 @@
 <h1> JOGO DA MEMÓRIA </h1> 
 <h2> Eduacação Sexual </h2>
-<p> Esse projeto foi desenvolvido com o intuito de propagar as informaçãos sobre educação sexual de modo criativo e tecnológico. 
-  Jogo desenvolvido exclusivamente para o programa de Pós-Graduação em Enfermagem e Saúde, especificadamente para <strong> Doutorado de Ciências da Saúde da Universidade Estadual Do Sudoeste Da Bahia.</strong> </p>
+<p> Esse projeto foi desenvolvido com o intuito de propagar as informaçãos sobre Educação Sexual e Prevenção as Infecções Sexualmente Transmissíveis (IST), de modo criativo e tecnológico. <br> Jogo desenvolvido exclusivamente para o programa de Pós-Graduação em Enfermagem e Saúde, especificadamente para <strong> Doutorado de Ciências da Saúde da Universidade Estadual Do Sudoeste Da Bahia.</strong> </p>
 <div align="center">
   <div style="display: inline_block"><br>
   <img align="center" height="200" width="200" src="https://i.pinimg.com/originals/74/a7/3a/74a73a5eae784e53143ed440531e54c2.jpg">
@@ -37,7 +36,13 @@
   </div>
   <div align="left">
     <h2> Referências </h2> 
-    <p><a href="https://bvsms.saude.gov.br/bvs/publicacoes/caderneta_saude_adolescente_feminina.pdf" target="_blank">Cardeneta de Saúde do Adolescente Feminina</a> <br> <a href="https://bvsms.saude.gov.br/bvs/publicacoes/caderneta_saude_adolescente_masculino.pdf" target="_blank">Cardeneta de Saúde do Adolescente Masculina</a> <br> <a href="https://codepen.io/mel/full/Axgqge" target="_blank">jQuery Picture Memory Game </a> </p>
+    <p><a href="http://bvsms.saude.gov.br/bvs/publicações/protocolo_clinico_atecao_integral_ist.pdf " target="_blank">Brasil. Ministério da Saúde, Secretaria de Vigilância em Saúde, Departamento de Doenças de Condições Crônicas e Infecções Sexualmente Transmissíveis. Protocolo Clínico e Diretrizes Terapêuticas para Atenção Integral às Pessoas com Infecções Sexualmente Transmissíveis – IST [recurso eletrônico]. Brasília: Ministério da Saúde, 2022. Modo de acesso: World Wide Web: http://bvsms.saude.gov.br/bvs/publicações/protocolo_clinico_atecao_integral_ist.pdf ISBN 978-65-5993-276-4</a> <br>
+      
+      <a href="https://bvsms.saude.gov.br/bvs/publicacoes/caderneta_saude_adolescente_feminina.pdf" target="_blank">Brasil. Ministério da Saúde. Caderneta de Saúde do Adolescente / Feminina (2013). Disponível em https://bvsms.saude.gov.br/bvs/publicacoes/caderneta_saude_adolescente_feminina.pdf</a> <br> 
+      
+          <a href="https://bvsms.saude.gov.br/bvs/publicacoes/caderneta_saude_adolescente_masculino.pdf" target="_blank">Brasil. Ministério da Saúde. Caderneta de Saúde do Adolescente / Masculina (2014). Disponível em https://bvsms.saude.gov.br/bvs/publicacoes/caderneta_saude_adolescente_masculino.pdf</a> <br>
+      
+      <a href="https://codepen.io/mel/full/Axgqge" target="_blank">jQuery Picture Memory Game </a> </p>
   </div> 
   <h2> Criado por <a href="https://www.linkedin.com/in/ellen-maria-da-silva-caldas-4824b01a7/" target="_blank"> Ellen Caldas</a> </h2>
   
