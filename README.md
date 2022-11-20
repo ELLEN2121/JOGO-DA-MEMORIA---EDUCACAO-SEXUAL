@@ -12,7 +12,7 @@
 <ol>
   <li>Clique em uma das cartas para abri-lá. </li>
   <li>Leia o que está na carta. </li>
-  <li>encontre a outra carta idêntica a anterior.</li>
+  <li>Encontre a outra carta idêntica a anterior.</li>
 </ol> 
   <h4> Objetivo </h4>
   <p> Terminar o jogo com número mínimo de clicks.</p> 
