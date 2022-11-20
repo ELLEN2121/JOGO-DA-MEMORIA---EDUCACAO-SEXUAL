@@ -19,4 +19,7 @@
   <h3> <strong> Observação </strong> </h3>
   <p>A carta irá sumir da tela em 11 segundos. Se preferir, abra novamente, no entanto será contabilizado mais um clique. </p>
 
+  
+  <h2> Tecnologia </h2> 
+  <p> Foi utilizado o HTML, CSS e JavaScript para o desenvolvimento do jogo. Além disso, foi implementado com uma biblioteca especifica do JavaScript, o jQuery. Hospedado e compilado integralmente na IDE online de código aberto, o <a href=" https://codepen.io/ellen2121/full/KKemWPz">CodePen</a></p>
 </div>
