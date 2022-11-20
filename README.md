@@ -21,7 +21,8 @@
   <p>A carta irá sumir da tela em 11 segundos. Se preferir, abra novamente, no entanto será contabilizado mais um clique. 
     <br>Para reiniciar o jogo e zerar a contagem, click em "Reiniciar". 
     <br> Para maior usabilidade em modo mobile, ativar o modo computador nas configurações da página. 
-    <br> <img align="center"  height="300" width="150" src="https://i.pinimg.com/564x/c5/7c/26/c57c26cb3a4d154624060e825ba7fb7d.jpg"> <br>
+    <br> <img align="center"  height="300" width="150" src="https://i.pinimg.com/564x/c5/7c/26/c57c26cb3a4d154624060e825ba7fb7d.jpg">
+    <br>
   </p> 
 
   
