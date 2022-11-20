@@ -21,6 +21,6 @@
 
   
   <h2> Tecnologia </h2> 
-  <p> Foi utilizado o HTML, CSS e JavaScript para o desenvolvimento do jogo. Além disso, foi implementado com uma biblioteca especifica do JavaScript, o jQuery. Hospedado e compilado integralmente na IDE online de código aberto, o <a href="https://codepen.io/ellen2121/full/KKemWPz" target="_blank">CodePen</a> </p> 
+  <p> Foi utilizado o HTML, CSS e JavaScript para o desenvolvimento do jogo. Além disso, foi implementado com uma biblioteca especifica do JavaScript, o jQuery. <br> Hospedado e compilado integralmente na IDE online de código aberto, o <a href="https://codepen.io/ellen2121/full/KKemWPz" target="_blank">CodePen</a> </p> 
 </div>
-
+  <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
