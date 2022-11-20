@@ -19,6 +19,8 @@
   <h4> <strong> Observação </strong> </h4>
   <p>A carta irá sumir da tela em 11 segundos. Se preferir, abra novamente, no entanto será contabilizado mais um clique. </p>
    <p>Para reiniciar o jogo e zerar a contagem, click em "Reiniciar".</p>
+   ![WhatsApp Image 2022-11-20 at 04 20 12](https://user-images.githubusercontent.com/61208054/202890729-d536027e-e930-49ef-9470-a10840761baf.jpeg)
+
   
   <h2> Tecnologia </h2> 
   <p> Foi utilizado o HTML, CSS e JavaScript para o desenvolvimento do jogo. Além disso, foi implementado com uma biblioteca especifica do JavaScript, o jQuery. <br> Hospedado e compilado integralmente na IDE online de código aberto, o <a href="https://codepen.io/ellen2121/full/KKemWPz" target="_blank">CodePen</a> </p> 
